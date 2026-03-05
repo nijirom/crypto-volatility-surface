@@ -3,6 +3,3 @@ base = "dark"
 
 [client]
 toolbarMode = "minimal"
-
-[server]
-baseUrlPath = "/crypto-volatility-surface"
